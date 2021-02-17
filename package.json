@@ -1,0 +1,26 @@
+{
+  "name": "file-api",
+  "version": "0.1.0",
+  "description": "A simle file api for js",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snurf08/js-file-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Snurf08",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Snurf08/js-file-api/issues"
+  },
+  "homepage": "https://github.com/Snurf08/js-file-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
